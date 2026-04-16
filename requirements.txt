@@ -3,3 +3,6 @@ pandas
 scikit-learn
 imbalanced-learn
 numpy
+plotly
+plotly.express 
+plotly.graph_objects 
